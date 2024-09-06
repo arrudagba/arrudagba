@@ -5,7 +5,7 @@
 
 ![arrudagba GitHub stats](https://github-readme-stats.vercel.app/api?username=arrudagba&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias:
+
 
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,7 +19,6 @@
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
   <img align="center" alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img align="center" alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
   <img align="center" alt="Monero" src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"/>
   <img align="center" alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
