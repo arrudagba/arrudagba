@@ -22,7 +22,6 @@
   <img align="center" alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
   <img align="center" alt="Monero" src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"/>
   <img align="center" alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
-  <img align="center" alt="Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
 
        
