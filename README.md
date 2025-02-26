@@ -2,8 +2,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-arruda-956ab6303/)
 
-
-![arrudagba GitHub stats](https://github-readme-stats.vercel.app/api?username=arrudagba&show_icons=true&theme=dracula&count_private=true)
+<div>
+  <img height="180cm", src = "https://github-readme-stats.vercel.app/api?username=arrudagba&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+  <img height="180cm", src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arrudagba&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
+</div>
 
 
 
@@ -30,9 +32,10 @@
 
 ## About me:
 
-• 💼 Undergraduate in Computer Science(PUC-Rio).
+- 💼 Undergraduate in Computer Science (PUC-Rio)
+- 🛡️ Passionate about Cybersecurity
+- 🔓 FLOSS enthusiast
 
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrudagba&layout=compact)](https://github.com/arrudagba/github-readme-stats)
