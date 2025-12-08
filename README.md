@@ -3,10 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arrudagba/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://arrudagba.dev)
 
-<div>
-  <a>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrudagba&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
-  </a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arrudagba&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
 </div>
 
 
