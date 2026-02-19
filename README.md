@@ -16,4 +16,4 @@
 
 - 💻 Undergraduate in Computer Science (PUC-Rio)
 - 🛡️ Passionate about Cybersecurity
-- 🔓 FLOSS enthusiast
+- 🔓 FOSS enthusiast
